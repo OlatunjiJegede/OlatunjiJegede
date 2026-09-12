@@ -147,20 +147,21 @@ I'm a dedicated and efficient full-stack developer who has spent the last decade
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=OlatunjiJegede&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlatunjiJegede&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OlatunjiJegede&theme=github_dark" alt="Profile details" width="95%" />
+
+<br/><br/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OlatunjiJegede&theme=github_dark" alt="GitHub stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OlatunjiJegede&theme=github_dark" alt="Repos per language" />
+
+<br/><br/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OlatunjiJegede&theme=github_dark" alt="Most commit language" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OlatunjiJegede&theme=github_dark&utcOffset=-6" alt="Productive time" />
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=OlatunjiJegede&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OlatunjiJegede&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true" alt="Contribution graph" width="95%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=OlatunjiJegede&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
 
 </div>
 
