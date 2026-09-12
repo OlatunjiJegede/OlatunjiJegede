@@ -4,10 +4,10 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-jegsplus.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-WEBSITE.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![Website](https://img.shields.io/badge/Website-jegsplus.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jegsplus.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olatunjijegede/)
 [![CareerGraph](https://img.shields.io/badge/CareerGraph-.co-7C3AED?style=for-the-badge&logo=rocket&logoColor=white)](https://careergraph.co)
-[![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@jegsplus.com)
+[![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jegedeolatunji@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=OlatunjiJegede&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="profile views" />
 
@@ -94,7 +94,7 @@ olatunji@jegsplus:~$ █
 
 ## 🧠 About Me
 
-I'm a dedicated and efficient full-stack developer who has spent the last decade building across every layer of the stack — presentation, application and database. Today I run **[Jegsplus Solutions LTD](https://YOUR-WEBSITE.com)**, a B2B IT services and SaaS company in Saskatchewan, Canada, where I design and ship products that put AI to work for real businesses.
+I'm a dedicated and efficient full-stack developer who has spent the last decade building across every layer of the stack — presentation, application and database. Today I run **[Jegsplus Solutions LTD](https://jegsplus.com)**, a B2B IT services and SaaS company in Saskatchewan, Canada, where I design and ship products that put AI to work for real businesses.
 
 - 🚀 Currently building **[CareerGraph.co](https://careergraph.co)** — an AI-powered career platform
 - 🤖 Shipping **Phoxta AI**, an AI platform for business workflows
@@ -197,9 +197,9 @@ I'm a dedicated and efficient full-stack developer who has spent the last decade
 
 I'm always open to interesting projects, partnerships and conversations about AI-powered SaaS.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@jegsplus.com)
-[![Jegsplus](https://img.shields.io/badge/-Jegsplus%20Solutions-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://YOUR-WEBSITE.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olatunjijegede/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jegedeolatunji@gmail.com)
+[![Jegsplus](https://img.shields.io/badge/-Jegsplus%20Solutions-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://jegsplus.com)
 
 <br/>
 
