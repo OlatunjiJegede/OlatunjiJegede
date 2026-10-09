@@ -134,7 +134,7 @@ I'm a dedicated and efficient full-stack developer who has spent the last decade
 
 | Product | What it does | Stack |
 |:--|:--|:--|
-| **[CareerGraph](https://careergraph.co)** | AI-powered career platform helping people plan, grow and land their next role | Next.js · AI · Supabase · Vercel |
+| **[CareerGraph](https://careergraph.co)** | AI-powered career platform helping people plan, grow and land their next role | Next.js · AI  |
 | **Phoxta AI** | AI platform that automates business workflows for SMBs | TypeScript · Node.js · LLM APIs |
 | **HR Management System** | Full HRMS — employees, timesheets, leave, payroll workflows | React · Node.js · PostgreSQL |
 | **Appointment Booking System** | Scheduling & booking SaaS for service businesses | Next.js · Postgres · Stripe |
